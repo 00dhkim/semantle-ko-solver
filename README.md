@@ -2,7 +2,7 @@
 
 *꼬맨틀 솔버*
 
-이 레포지토리는 NewsJelly의 꼬맨틀 - 단어 유사도 추측 게임(https://github.com/NewsJelly/semantle-ko)의 정답을 추측하는 솔버를 개발한 것입니다.
+이 레포지토리는 NewsJelly의 [꼬맨틀 - 단어 유사도 추측 게임](https://github.com/NewsJelly/semantle-ko)의 정답을 추측하는 솔버를 개발한 것입니다.
 
 ## setup
 
