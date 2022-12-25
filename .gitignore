@@ -1,5 +1,5 @@
 /.idea/
-/data/
+/data/valid_nearest.dat
 /venv/
 
 *.py[co]
