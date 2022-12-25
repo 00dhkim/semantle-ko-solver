@@ -27,3 +27,7 @@ semantle-ko 게임은 `ko-aff-dic-0.7.92`와 `cc.ko.300.vec`의 두가지 데이
 추출하여 정답 단어를 찾아냅니다.
 
 일반적으로 2~3회 이내로 정답 단어를 찾아낼 수 있습니다.
+
+## examples
+
+![example.png](/example.png)
