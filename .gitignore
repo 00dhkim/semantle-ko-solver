@@ -1,0 +1,8 @@
+/.idea/
+/data/
+/venv/
+
+*.py[co]
+
+.python-version
+/__pycache__/
